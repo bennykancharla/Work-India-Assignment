@@ -1,0 +1,33 @@
+
+
+
+.movie-list-item{
+    width: 200px;
+   margin: 15px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+}
+
+
+.card-heading{
+    color: aliceblue;
+    font-size: 15px;
+}
+
+.card-rating{
+    color: aliceblue;
+    font-size: 12px;
+    margin: 0px;
+}
+
+
+.movie-card-image{
+    width: 170px;
+}
+
+.links{
+    text-decoration: none;
+}

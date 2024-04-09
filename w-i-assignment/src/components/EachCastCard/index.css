@@ -1,0 +1,21 @@
+
+.cast-list-item{
+    width: 200px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cast-image{
+    width: 100px;
+}
+
+.cast-name{
+    margin: 2px;
+    color: #dbdbdb;
+    font-size: 11px;
+    align-self: flex-start;
+}

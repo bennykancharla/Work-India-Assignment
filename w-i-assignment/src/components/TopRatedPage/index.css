@@ -1,0 +1,56 @@
+.top-rated-container{
+    padding: 20px;
+    background-color: #000000;
+}
+
+.top-loader-container{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading-pages{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pagination-container{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.pagination-btn{
+    margin: 5px;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+
+
+.top-rated-heading{
+    color: white;
+    font-size: 30px;
+}
+
+.top-rated-movie-cards-list-container{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+   
+    align-items: center;
+    flex-wrap: wrap;
+
+}

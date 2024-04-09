@@ -1,0 +1,26 @@
+
+.movie-detail-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(78, 78, 78);
+}
+
+.cast-container{
+    width: 100%;
+}
+
+.cast-heading{
+    align-self: flex-start;
+    color: #dbdbdb;
+}
+
+.cast-list-container{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    overflow: auto;
+}

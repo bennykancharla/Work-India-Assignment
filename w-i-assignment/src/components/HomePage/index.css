@@ -1,0 +1,26 @@
+.home-container{
+    padding: 20px;
+    background-color: #000000;
+}
+
+.loader-container{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-heading{
+    color: white;
+}
+
+.movie-cards-list-container{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+   
+    align-items: center;
+    flex-wrap: wrap;
+
+}
