@@ -18,7 +18,7 @@ const SearchedMoviePage = () => {
 
   useEffect(() =>{ 
     getSearchedMovie();
-  },[pageNum])
+  },[pageNum,searchInput])
   
 
   const getSearchedMovie = async () =>{
